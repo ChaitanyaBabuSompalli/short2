@@ -13,6 +13,7 @@ int main() {
     stack.push(24); // Pushing 24 into the stack
     stack.push(25); // Pushing 25 into the stack
 
+
     int num = 0;
     stack.push(num); // Pushing the value of 'num' (which is 0) into the stack
     stack.pop();     // Popping the top element from the stack (removing 0)
